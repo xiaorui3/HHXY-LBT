@@ -1,5 +1,5 @@
 # HHXY-LBT
-RoboMaster  LBT战队视觉
+RoboMaster  黑河学院LBT战队视觉组
 
 ### 环境
   ubuntu18/20  最好为18版本 20版本相机驱动会出现问题   快速打开终端快捷键 ctrl + alt + T
