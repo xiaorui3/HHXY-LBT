@@ -89,8 +89,6 @@ RoboMaster  黑河学院LBT战队视觉组
     #附加权限
     ./BamThriving-VISION
     
-    sudo ./BamThriving-VISION 777 /dev/video2
-    
     sudo ./HHXY_LBT2023 777 /dev/video1
     
     v4l2-ctl --list-devices//检测相机
